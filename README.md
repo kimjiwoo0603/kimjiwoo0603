@@ -16,3 +16,6 @@
 
 ## Writing
 세션 복습과 논문 리뷰 기록: [velog.io/@bokbok060323](https://velog.io/@bokbok060323/posts)
+
+## Portfolio
+**[포트폴리오](https://acute-sun-5d0.notion.site/4d9f4e4cc6b982a189d501110543914b)**
