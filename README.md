@@ -1,8 +1,6 @@
 # 김지우 (Kim Jiwoo)
 이화여자대학교 데이터사이언스전공 · 경영학 복수전공
 
-AI를 실제 산업 문제에 적용하고, 그 결과를 실험으로 검증하는 데 관심이 있습니다.
-
 ## Projects
 **[TSAD-Streamlit](https://github.com/kimjiwoo0603/TSAD-Streamlit)** · 대한산업공학회 프로젝트경진대회  
 예산 제약을 고려한 시계열 이상 탐지 모델 추천 시스템의 웹 대시보드  
