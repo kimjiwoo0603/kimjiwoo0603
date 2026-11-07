@@ -2,7 +2,7 @@
 이화여자대학교 데이터사이언스전공 · 경영학 복수전공
 
 ## Projects
-**[TSAD-BAMTI](https://github.com/sihunjo-cell/TSAD_project)** · 대한산업공학회 프로젝트경진대회  
+**[TSAD-PROJECT](https://github.com/sihunjo-cell/TSAD_project)** · 대한산업공학회 프로젝트경진대회  
 예산 제약을 고려한 시계열 이상 탐지 모델 추천 시스템의 웹 대시보드  
 역할: 시스템 설계 참여, VUS-PR 평가 코드 수정 및 전체 후보 모델 실행, 웹 대시보드 구현
 
