@@ -6,7 +6,7 @@
 예산 제약을 고려한 시계열 이상 탐지 모델 추천 시스템의 웹 대시보드  
 역할: 시스템 설계 참여, VUS-PR 평가 코드 수정 및 전체 후보 모델 실행, 웹 대시보드 구현
 
-**[HALO](https://github.com/kimjiwoo0603/HALO-LLM-Hallucination)** · AI 연구모임  
+**[HALO](https://github.com/kimjiwoo0603/LLM-Hallucination)** · AI 연구모임  
 허위 전제 뉴스 질의에서 단일 LLM과 역할 분리 멀티 에이전트의 환각 비교 실험  
 역할: 실험 설계 전반
 
